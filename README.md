@@ -39,8 +39,7 @@ accessed from anywhere and any device.
 
 
 # References
-https://medium.com/analytics-vidhya/image-recognition-using-pre-trained-xception-model-in-5-
-steps-96ac858f4206
+https://medium.com/analytics-vidhya/image-recognition-using-pre-trained-xception-model-in-5-steps-96ac858f4206
 https://towardsdatascience.com/review-xception-with-depthwise-separable-convolution-betterthan-inception-v3-image-dc967dd42568
 https://www.kaggle.com/noulam/tomato
 https://paperswithcode.com/method/xception
