@@ -19,6 +19,9 @@ is exponentially increasing. So our software solves this major problem. User has
 the pic of the plant and post in the application and the rest of our app will take care. Our system
 will provide cure to the disease and other necessary information on the spot.
 
+# Link to our Google Colab Notebook: 
+
+https://colab.research.google.com/drive/1xPdPYEKPBSBAH5g1hJ_0EHmK8vw8VYD4?usp=sharing
 
 ![image](https://user-images.githubusercontent.com/61037498/117696335-cfacda80-b1de-11eb-8685-0fa1a9a39c52.png)
 ![image](https://user-images.githubusercontent.com/61037498/117696360-d63b5200-b1de-11eb-8d10-548d54c7e144.png)
